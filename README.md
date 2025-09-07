@@ -18,6 +18,9 @@ GoogleColaboratory上で動かせるように作っています。
 
 <br><br><br>
 2.ダウンロードしたZIPファイルを開き、自身のGoogleDriveのMydriveかMydrive/cookのどちらかにアップロードしてください。
+
+
+　※GoogleDriveのマイドライブ内か、マイドライブ内にcookというフォルダを作成し、その中にダウンロードしたファイルを保存してください。
 　
  
  　※アップロードするファイルは、こんだて５.ipynbとkondate5_dataset.csvの２ファイルだけで良いです。
@@ -35,7 +38,7 @@ GoogleColaboratory上で動かせるように作っています。
 
 
 <br><br><br>
-4.すべての準備が整いました。こんだて５.ipynbのすべてのセルを実行してください！
+4.すべての準備が整いました。こんだて５.ipynbのすべてのセル（main.pyだけなら、main.py）を実行してください！
 
 
 　※うまくいけば、main.pyの出力結果が下記のように表示されます。
